@@ -108,7 +108,7 @@ You will also see any lint errors in the console.
 
 ## Firebase Configuration and Deploy
 
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://console.firebase.google.com/)
+[![Firebase Badge](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&labelColor=black&logo=firebase)](#)
 
 ### ⚙️ **Configuration steps** :
 
